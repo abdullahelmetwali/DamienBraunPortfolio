@@ -1,0 +1,1 @@
+import{b as t}from"./FooterComp-e4ZDwoNM.js";import{_ as o,o as c,c as r,a as e,k as n}from"./index-fl7223Q4.js";const a={},i={class:"inline-flex gap-2 items-center cursor-pointer"},_={class:"text-main text-sm"},l=e("img",{src:t,class:"w-3"},null,-1);function m(s,d){return c(),r("div",i,[e("div",_,[n(s.$slots,"default")]),l])}const u=o(a,[["render",m]]);export{u as V};

@@ -1,0 +1,1 @@
+import{_ as s,c as t,t as a,e as o,a as c,o as n}from"./index-fl7223Q4.js";const r={props:["link"]},l=c("h1",null,"TEST COMPONENT",-1);function _(i,p,e,d,f,k){return n(),t(o,null,[l,(n(),t("p",{key:e.link},a(e.link),1))],64)}const u=s(r,[["render",_]]);export{u as default};
