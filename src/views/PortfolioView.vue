@@ -68,16 +68,16 @@ export default {
         }
       },
       imgs: [
-        '/Imgs/Logo.png',
-        '/Imgs/logoOne.png',
-        '/Imgs/logoTwo.png',
-        '/Imgs/logoThree.png',
-        '/Imgs/logoFour.png',
-        '/Imgs/Logo.png',
-        '/Imgs/logoOne.png',
-        '/Imgs/logoTwo.png',
-        '/Imgs/logoThree.png',
-        '/Imgs/logoFour.png'
+        './Imgs/Logo.png',
+        './Imgs/logoOne.png',
+        './Imgs/logoTwo.png',
+        './Imgs/logoThree.png',
+        './Imgs/logoFour.png',
+        './Imgs/Logo.png',
+        './Imgs/logoOne.png',
+        './Imgs/logoTwo.png',
+        './Imgs/logoThree.png',
+        './Imgs/logoFour.png'
       ]
     }
   },
